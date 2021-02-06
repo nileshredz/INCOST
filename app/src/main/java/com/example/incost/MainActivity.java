@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         sh.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String website = "https://drive.google.com/drive/folders/1kfebwwVf61xZQXE_bYd1b476mx1UglXI?usp=sharing";
+                String website = "https://raw.githubusercontent.com/nileshredz/INCOST/master/Incost.apk";
                 Intent intent = new Intent(Intent.ACTION_SEND);
                 intent.setType("text/plain");
                 String subject = "Hey! \nI would like you to check out this INCOST (Internet Connection Status). \n\nINCOST is a compact Internet Connection Analyzer.\nWant to get your hands on it?   \n\nDownload INCOST using the Link: \n" +website+" \n \n Thank You! ";
