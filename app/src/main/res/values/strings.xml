@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InCoSt - Internet Connection Status</string>
+    <string name="internet_connection_status">Internet Connection Status</string>
+    <string name="made_with_by_nilesh_ohol">Made with ❤ by Nilesh Ohol</string>
+    <string name="let_people_know_about_incost">Let people know about INCOST</string>
+    <string name="sad">:(</string>
+    <string name="note_click_on_refresh_icon_above_if_this_is_an_issue">Note: Click on Refresh Icon above if this is an Issue</string>
+</resources>
